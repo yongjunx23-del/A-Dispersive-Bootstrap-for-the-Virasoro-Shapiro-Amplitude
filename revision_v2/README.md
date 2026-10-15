@@ -58,7 +58,7 @@ Main record families (`canonical_config.kind`):
 |---|---|
 | `glin_direction` | Figure 1 (support function, 192 directions) |
 | `glin_c00max` | Linear maximum of c00, figures 2 and 7 |
-| `glin_c00max_eikonal` | States appended above the grid (appendix A.1): cases `glin_c00max_E6`, `_E8` feasible, `_E12` and above unbounded |
+| `glin_c00max_eikonal` | Supplementary: states appended above the grid (not quoted in the paper); `glin_c00max_E6`, `_E8` feasible, `_E12` and above unbounded |
 | `gnl3_slice`, `gnl3_end*`, `gnl3_tip` | Gravitational NL3 region, figures 3 and 4 |
 | `gnl6_scan`, `gnl6_tip` | Gravitational NL6 tests, figure 4 |
 | `gnl3_convergence`, `gnl6_convergence` | Truncation checks on the string slice, figures 8 and 9; variant `T0` removes the sampled pole rows |

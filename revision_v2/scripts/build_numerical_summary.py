@@ -427,11 +427,7 @@ greater mass and spin resolution as their functional basis is enlarged
 \cite[section~3.2 and appendix~A]{Caron-Huot:2021rmr}.
 Here we compare \(N_t=4,6,8\), whose node sets are not nested, to assess
 sensitivity at the stated settings; we do not seek the optimal
-gravitational bound. At fixed \(N_t\), appending states with impact
-parameter \(b=2\ell/\sqrt{\mu}\le200\) above the grid raises the linear
-maximum of \(c_{0,0}M^6/(8\pi G)\) from 2.969 to 2.995 for states up to
-\(10^6M^2\) and to 3.009 for states up to \(10^8M^2\); with states up to
-\(10^{12}M^2\) the LP is unbounded, as certified by an audited recession ray.
+gravitational bound.
 
 """
  unique_runs={d.get('source_case',d['case']):d for d in D}
