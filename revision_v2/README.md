@@ -7,7 +7,7 @@ audit the LPs, and the scripts that regenerate the figures and the numbers
 quoted in appendix A.
 
 The implementation used for the first version (Gurobi, double precision) is
-at the top level of
+in the `v1/` folder of
 https://github.com/yongjunx23-del/A-Dispersive-Bootstrap-for-the-Virasoro-Shapiro-Amplitude;
 this companion is its `revision_v2/` folder.
 The LPs here are solved with SDPX, https://github.com/yongjunx23-del/SDPX.rs.
