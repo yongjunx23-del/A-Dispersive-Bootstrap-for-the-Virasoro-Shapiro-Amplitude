@@ -1,0 +1,19 @@
+{
+  "name": "representative_nl6_string_min",
+  "n_mu": 150,
+  "j_max": 500,
+  "max_null_power": 6,
+  "gravity": false,
+  "fix_c00": true,
+  "fix_c10": true,
+  "nl": 6,
+  "alpha": "1",
+  "objective": {
+    "c20": "1"
+  },
+  "full_master": false,
+  "max_exchange": 32,
+  "solver_tol": "1e-30",
+  "audit_tol": "1e-25",
+  "seed_energies": 24
+}

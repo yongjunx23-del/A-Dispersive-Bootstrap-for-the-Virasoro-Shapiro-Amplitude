@@ -1,3 +1,14 @@
+# A Dispersive Bootstrap for the Virasoro-Shapiro Amplitude
+
+**Revised version (v2):** the numerical companion of the revised paper is in
+[`revision_v2/`](revision_v2). It contains the audited high-precision (SDPX)
+LP records behind every figure and table, the case configurations, the LP and
+audit scripts, and scripts that regenerate all figures and the appendix
+numbers. See [`revision_v2/README.md`](revision_v2/README.md).
+
+The files at the top level below reproduce the first version of the paper
+(Gurobi, double precision).
+
 # Closed-String Bootstrap Note Reproduction
 
 This folder is a self-contained, GitHub-ready reproduction package for the

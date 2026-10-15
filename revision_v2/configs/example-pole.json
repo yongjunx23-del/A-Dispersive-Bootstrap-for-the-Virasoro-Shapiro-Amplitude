@@ -1,0 +1,20 @@
+{
+  "alpha": "1",
+  "audit_tol": "1e-25",
+  "fix_c00": true,
+  "fix_c10": true,
+  "full_master": false,
+  "gravity": false,
+  "j_max": 1000,
+  "kind": "pole_convergence",
+  "max_exchange": 32,
+  "max_null_power": 8,
+  "n_mu": 300,
+  "name": "ps_string_N300_J1000_p8_min",
+  "nl": 6,
+  "objective": {
+    "c20": "1"
+  },
+  "seed_energies": 24,
+  "solver_tol": "1e-30"
+}

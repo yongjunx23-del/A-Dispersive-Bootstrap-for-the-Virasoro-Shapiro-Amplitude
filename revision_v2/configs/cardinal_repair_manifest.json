@@ -1,0 +1,32 @@
+{
+  "reason": "The top c10 directional objective is nearly zero in physical units on this grid. Use the exact cardinal direction and a positive objective scaling, preserving its optimizer.",
+  "cases": [
+    {
+      "n_mu": 300,
+      "j_max": 3000,
+      "max_null_power": 10,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "0",
+        "c10": "-1e16"
+      },
+      "full_master": false,
+      "max_exchange": 32,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "n_t": 6,
+      "theta": "1.5707963267948966192313216916397514420985846996875529104874722961539082031431044993140174126710585339910740433",
+      "direction_index": 12,
+      "direction_count": 48,
+      "name": "gr_linear_direction_048_012_cardinal_retry1",
+      "kind": "gravity_linear_direction",
+      "replacement_of": "gr_linear_direction_048_012",
+      "objective_scale": "1e16"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+[
+ {
+  "name": "full_N16_J100_p6_rep1",
+  "source": "<project>/convergence_20261014/sdpb_compare/inputs/full_N16_J100_p6.json",
+  "columns": 816,
+  "rows": 29,
+  "cores": 1,
+  "solver_bits": 256,
+  "kernel_bits": 512,
+  "tolerance": "1e-30",
+  "sdpx": {
+   "exit": 0,
+   "wall_seconds": 2.413745880126953,
+   "status": "Solved",
+   "iterations": 39,
+   "native_seconds": 2.18634925,
+   "objective_minus_q_dot_x": "2.016685317081516664660366976601900128587"
+  },
+  "sdpb": {
+   "convert_exit": 0,
+   "convert_seconds": 6.918550729751587,
+   "solve_exit": 0,
+   "solve_seconds": 98.32680130004883,
+   "terminate_reason": "found primal-dual optimal solution",
+   "primal_objective": "2.016685317081516664660366976603086564712747339550610026712164891766657807648084",
+   "dual_objective": "2.01668531708151666466036697660185615135899256292408479407456441234520246164043",
+   "duality_gap": "3.050583408658401883869161431698298746937184616016425069522961531684895024308175e-31",
+   "solver_seconds": "97",
+   "iterations": 190,
+   "blocks": 816
+  }
+ },
+ {
+  "name": "full_N16_J100_p6_rep2",
+  "source": "<project>/convergence_20261014/sdpb_compare/inputs/full_N16_J100_p6.json",
+  "columns": 816,
+  "rows": 29,
+  "cores": 1,
+  "solver_bits": 256,
+  "kernel_bits": 512,
+  "tolerance": "1e-30",
+  "sdpx": {
+   "exit": 0,
+   "wall_seconds": 2.254159688949585,
+   "status": "Solved",
+   "iterations": 39,
+   "native_seconds": 2.181171281,
+   "objective_minus_q_dot_x": "2.016685317081516664660366976601900128587"
+  },
+  "sdpb": {
+   "convert_exit": 0,
+   "convert_seconds": 1.7845120429992676,
+   "solve_exit": 0,
+   "solve_seconds": 101.75687146186829,
+   "terminate_reason": "found primal-dual optimal solution",
+   "primal_objective": "2.016685317081516664660366976603086564712747339550610026712164891766657807648084",
+   "dual_objective": "2.01668531708151666466036697660185615135899256292408479407456441234520246164043",
+   "duality_gap": "3.050583408658401883869161431698298746937184616016425069522961531684895024308175e-31",
+   "solver_seconds": "101",
+   "iterations": 190,
+   "blocks": 816
+  }
+ },
+ {
+  "name": "full_N16_J100_p6_rep3",
+  "source": "<project>/convergence_20261014/sdpb_compare/inputs/full_N16_J100_p6.json",
+  "columns": 816,
+  "rows": 29,
+  "cores": 1,
+  "solver_bits": 256,
+  "kernel_bits": 512,
+  "tolerance": "1e-30",
+  "sdpx": {
+   "exit": 0,
+   "wall_seconds": 2.264164686203003,
+   "status": "Solved",
+   "iterations": 39,
+   "native_seconds": 2.157809101,
+   "objective_minus_q_dot_x": "2.016685317081516664660366976601900128587"
+  },
+  "sdpb": {
+   "convert_exit": 0,
+   "convert_seconds": 1.7316837310791016,
+   "solve_exit": 0,
+   "solve_seconds": 103.56016778945923,
+   "terminate_reason": "found primal-dual optimal solution",
+   "primal_objective": "2.016685317081516664660366976603086564712747339550610026712164891766657807648084",
+   "dual_objective": "2.01668531708151666466036697660185615135899256292408479407456441234520246164043",
+   "duality_gap": "3.050583408658401883869161431698298746937184616016425069522961531684895024308175e-31",
+   "solver_seconds": "102",
+   "iterations": 190,
+   "blocks": 816
+  }
+ },
+ {
+  "name": "full_N32_J200_p8_rep1",
+  "source": "<project>/convergence_20261014/sdpb_compare/inputs/full_N32_J200_p8.json",
+  "columns": 3232,
+  "rows": 44,
+  "cores": 1,
+  "solver_bits": 256,
+  "kernel_bits": 512,
+  "tolerance": "1e-30",
+  "sdpx": {
+   "exit": 0,
+   "wall_seconds": 28.096837520599365,
+   "status": "Solved",
+   "iterations": 68,
+   "native_seconds": 27.745491546,
+   "objective_minus_q_dot_x": "2.016685117663352895900337306749817438774"
+  },
+  "sdpb": {
+   "convert_exit": 0,
+   "convert_seconds": 6.179628372192383,
+   "solve_exit": 0,
+   "solve_seconds": 596.5186150074005,
+   "terminate_reason": "found primal-dual optimal solution",
+   "primal_objective": "2.016685117663352895900337306752660398744651022870991413229759941409166832864797",
+   "dual_objective": "2.016685117663352895900337306749780803321426580736027592669654183993977691711163",
+   "duality_gap": "7.139427464414738769170568268875607567154829904713408254498909556241802712971946e-31",
+   "solver_seconds": "595",
+   "iterations": 232,
+   "blocks": 3232
+  }
+ },
+ {
+  "name": "full_N32_J200_p8_rep2",
+  "source": "<project>/convergence_20261014/sdpb_compare/inputs/full_N32_J200_p8.json",
+  "columns": 3232,
+  "rows": 44,
+  "cores": 1,
+  "solver_bits": 256,
+  "kernel_bits": 512,
+  "tolerance": "1e-30",
+  "sdpx": {
+   "exit": 0,
+   "wall_seconds": 28.87008547782898,
+   "status": "Solved",
+   "iterations": 68,
+   "native_seconds": 28.553054706,
+   "objective_minus_q_dot_x": "2.016685117663352895900337306749817438774"
+  },
+  "sdpb": {
+   "convert_exit": 0,
+   "convert_seconds": 6.3728625774383545,
+   "solve_exit": 0,
+   "solve_seconds": 600.334890127182,
+   "terminate_reason": "found primal-dual optimal solution",
+   "primal_objective": "2.016685117663352895900337306752660398744651022870991413229759941409166832864797",
+   "dual_objective": "2.016685117663352895900337306749780803321426580736027592669654183993977691711163",
+   "duality_gap": "7.139427464414738769170568268875607567154829904713408254498909556241802712971946e-31",
+   "solver_seconds": "599",
+   "iterations": 232,
+   "blocks": 3232
+  }
+ },
+ {
+  "name": "full_N32_J200_p8_rep3",
+  "source": "<project>/convergence_20261014/sdpb_compare/inputs/full_N32_J200_p8.json",
+  "columns": 3232,
+  "rows": 44,
+  "cores": 1,
+  "solver_bits": 256,
+  "kernel_bits": 512,
+  "tolerance": "1e-30",
+  "sdpx": {
+   "exit": 0,
+   "wall_seconds": 28.98935627937317,
+   "status": "Solved",
+   "iterations": 68,
+   "native_seconds": 28.691750363,
+   "objective_minus_q_dot_x": "2.016685117663352895900337306749817438774"
+  },
+  "sdpb": {
+   "convert_exit": 0,
+   "convert_seconds": 6.955956697463989,
+   "solve_exit": 0,
+   "solve_seconds": 614.0159149169922,
+   "terminate_reason": "found primal-dual optimal solution",
+   "primal_objective": "2.016685117663352895900337306752660398744651022870991413229759941409166832864797",
+   "dual_objective": "2.016685117663352895900337306749780803321426580736027592669654183993977691711163",
+   "duality_gap": "7.139427464414738769170568268875607567154829904713408254498909556241802712971946e-31",
+   "solver_seconds": "613",
+   "iterations": 232,
+   "blocks": 3232
+  }
+ }
+]

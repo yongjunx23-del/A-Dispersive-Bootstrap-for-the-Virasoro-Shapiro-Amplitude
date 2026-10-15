@@ -1,0 +1,317 @@
+{
+  "cases": [
+    {
+      "n_mu": 100,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N100_J10000_t4_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 4,
+      "convergence_axes": [
+        "energy"
+      ]
+    },
+    {
+      "n_mu": 200,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N200_J10000_t4_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 4,
+      "convergence_axes": [
+        "energy"
+      ]
+    },
+    {
+      "n_mu": 450,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N450_J10000_t4_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 4,
+      "convergence_axes": [
+        "energy"
+      ]
+    },
+    {
+      "n_mu": 600,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N600_J10000_t4_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 4,
+      "convergence_axes": [
+        "energy"
+      ]
+    },
+    {
+      "n_mu": 900,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N900_J10000_t4_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 4,
+      "convergence_axes": [
+        "energy"
+      ]
+    },
+    {
+      "n_mu": 100,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N100_J10000_t8_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 8,
+      "convergence_axes": [
+        "energy"
+      ]
+    },
+    {
+      "n_mu": 200,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N200_J10000_t8_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 8,
+      "convergence_axes": [
+        "energy"
+      ]
+    },
+    {
+      "n_mu": 450,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N450_J10000_t8_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 8,
+      "convergence_axes": [
+        "energy"
+      ]
+    },
+    {
+      "n_mu": 600,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N600_J10000_t8_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 8,
+      "convergence_axes": [
+        "energy"
+      ]
+    },
+    {
+      "n_mu": 900,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N900_J10000_t8_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 8,
+      "convergence_axes": [
+        "energy"
+      ]
+    },
+    {
+      "n_mu": 900,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N900_J10000_t6_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 6,
+      "convergence_axes": [
+        "energy"
+      ]
+    },
+    {
+      "n_mu": 600,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N600_J10000_t12_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 12,
+      "convergence_axes": [
+        "gravity_sampling_diagnostic"
+      ]
+    },
+    {
+      "n_mu": 900,
+      "j_max": 10000,
+      "max_null_power": 8,
+      "gravity": true,
+      "fix_c00": false,
+      "fix_c10": false,
+      "nl": 0,
+      "alpha": "1",
+      "objective": {
+        "c00": "-1"
+      },
+      "full_master": false,
+      "max_exchange": 48,
+      "seed_energies": 24,
+      "solver_tol": "1e-36",
+      "audit_tol": "1e-25",
+      "name": "gr_g0_N900_J10000_t12_p8",
+      "kind": "gravity_appendix_convergence",
+      "n_t": 12,
+      "convergence_axes": [
+        "gravity_sampling_diagnostic"
+      ]
+    }
+  ],
+  "purpose": "Three energy convergence curves at fixed high spin, plus larger grids for the Nt=12 finite-grid exclusion."
+}

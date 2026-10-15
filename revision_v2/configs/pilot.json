@@ -1,0 +1,16 @@
+{
+  "name": "pilot_nl3_c20_min",
+  "n_mu": 24,
+  "j_max": 48,
+  "max_null_power": 3,
+  "gravity": false,
+  "fix_c00": true,
+  "fix_c10": false,
+  "nl": 3,
+  "alpha": "1",
+  "objective": {"c20": "1"},
+  "full_master": true,
+  "max_exchange": 1,
+  "solver_tol": "1e-30",
+  "audit_tol": "1e-25"
+}
